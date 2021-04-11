@@ -1,0 +1,65 @@
+text-left text-capitalize{
+    color: aqua;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.School_mainDiv{
+    border: 1px solid blue;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.School_mainDiv img{
+    width: 100%;
+}
+.School_mainDiv hr{
+    width: 230px;
+}
+.School_mainDiv h5, .travel_mainDiv p{
+    margin-left: 20px;
+    
+}
+.Staff_head{
+ font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+.Staff_head i{
+    float: right;
+    
+}
+.Staff_text span{
+    color: crimson;
+}
+
+h5{
+    font-size: 50px;
+    font-style: bold;
+    padding-right: 70px;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+}
+
+.img-responsive{
+border-radius: 30px;
+}
